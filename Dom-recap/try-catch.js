@@ -1,0 +1,10 @@
+try{
+    console.log('try');
+    //console.log(student);
+}
+catch(error){
+    console.log('error');
+}
+finally{
+    console.log('done');
+}
